@@ -7,6 +7,11 @@ pcb part failed since the componnent needs to be soldered from the bottom meanin
 
 new gerber file and breadboard design file:
 
+![image](https://user-images.githubusercontent.com/54862231/70086254-fb866280-15df-11ea-9747-9ca9253ebba7.png)
+
+![image](https://user-images.githubusercontent.com/54862231/70086292-12c55000-15e0-11ea-85b6-22c55b001d99.png)
+
+
 
 ## Week 8 breadboarding complete and code
 breadboard complete:
