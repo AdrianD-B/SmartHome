@@ -1,5 +1,12 @@
 # SmartHome Captsone Project Blog
 
+## Week 9 pcb complete
+before soldering:
+![image](https://user-images.githubusercontent.com/54862231/70078917-a93e4500-15d1-11ea-841b-06c10aaba2a9.png)
+
+new gerber file and breadboard design file:
+
+
 ## Week 8 breadboarding complete and code
 breadboard complete:
 ![image](https://user-images.githubusercontent.com/54862231/70077583-0edd0200-15cf-11ea-9273-255e69d3c73c.png)
