@@ -88,4 +88,8 @@ Schematic:
 ![Screenshot_3](https://user-images.githubusercontent.com/54862231/67780749-eba5bc80-fa3c-11e9-9051-c0d799068fd1.png)
 
 ## Week 3 Schedule
+sources:
+
+https://www.youtube.com/watch?v=ZKj12hfqrZQ
+
 
