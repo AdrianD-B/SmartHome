@@ -1,1 +1,1 @@
-# SmartHome
+# SmartHome Build Instructions
