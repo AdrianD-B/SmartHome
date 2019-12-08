@@ -1,5 +1,12 @@
 # SmartHome Captsone Project Blog
 
+## Week 10 pcb soldered and functioning
+All works accordingly except for the buzzer which does work but is very weak sounding. Pretty sure i broke the buzzer since i did a test with same resistance and it still became lower than usual.
+
+![IMG_20191207_215312768](https://user-images.githubusercontent.com/54862231/70383545-b050b480-193d-11ea-9e81-566d23c7aded.jpg)
+
+![IMG_20191207_215111436](https://user-images.githubusercontent.com/54862231/70383582-26edb200-193e-11ea-8a1f-a55b292656c7.jpg)
+
 ## Week 9 pcb complete
 pcb part failed since the componnent needs to be soldered from the bottom meaning that the connections are flipped:
 
