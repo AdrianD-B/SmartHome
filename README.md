@@ -8,7 +8,19 @@ These are the build instructions for my Smart Home temperature sensor.
 
 ## 2) Budget
 
+![Screenshot_3](https://user-images.githubusercontent.com/54862231/67780749-eba5bc80-fa3c-11e9-9051-c0d799068fd1.png)
+
 ## 3) Time commitment
+
+First, it should take you about a week to aquire all the components. (1 week)
+
+Second, setting up stm32 bootloader and breadboarding. (1~3 hours)
+
+third, coding and power up. (1 hour)
+
+fourth, when you receive your pcb(or already have it) and solder the components. (1~3 hours)
+
+Entire project assembly should only take a weekend, there might be some time gain or loss depending on if you solder well or not, or mistakenly have the wrong connections and making sure each part is connected correctly.
 
 ## 4) Mechanical assembly
 
@@ -25,6 +37,13 @@ finished breadboard desgin should look like this:
 ## 5) PCB soldering
 
 ## 6) Power up
+
+place the sensor in hot water too increase the resistance and ice for a lower resistance. (note that for me it took a long time to see a temperature difference so you can leave it overnight to test it). To test the buzzer, you can change the value to see if it buzzes or not.
+
+![IMG_20191207_215111436](https://user-images.githubusercontent.com/54862231/70383582-26edb200-193e-11ea-8a1f-a55b292656c7.jpg)
+
+code readings:
+![IMG_20191207_215312768](https://user-images.githubusercontent.com/54862231/70383545-b050b480-193d-11ea-9e81-566d23c7aded.jpg)
 
 ## 7) Unit testing
 
