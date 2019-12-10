@@ -97,6 +97,6 @@ Schematic:
 ## Week 3 Schedule
 sources:
 
-https://www.youtube.com/watch?v=ZKj12hfqrZQ
+[https://www.youtube.com/watch?v=ZKj12hfqrZQ](https://www.youtube.com/watch?v=ZKj12hfqrZQ)
 
 
