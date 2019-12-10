@@ -2,13 +2,16 @@
 
 ## 1) Introduction and system diagram
 
-These are the build instructions for my Smart Home temperature sensor.
+These are the build instructions for my Smart Home temperature sensor. All homes need to know what the temperature is in each room of the building. This project is meant to be paired with another sensor to compare the readings to keep the same temperature throughout the establishment. 
 
 ![image](https://user-images.githubusercontent.com/54862231/70490061-65fd3e00-1acb-11ea-9887-3e3e3a16a493.png)
 
 ## 2) Budget
 
 ![Screenshot_3](https://user-images.githubusercontent.com/54862231/67780749-eba5bc80-fa3c-11e9-9051-c0d799068fd1.png)
+
+# Important notes 
+do not buy the amaon micro usb cable. It did not fit in the stm32 port. use this as a replacement: https://www.amazon.ca/Hama-C%C3%A2ble-micro-USB-m%C3%A2le/dp/B002XLOKPK
 
 ## 3) Time commitment
 
@@ -35,6 +38,10 @@ finished breadboard desgin should look like this:
 ![image](https://user-images.githubusercontent.com/54862231/70077583-0edd0200-15cf-11ea-9273-255e69d3c73c.png)
 
 ## 5) PCB soldering
+
+![IMG_20191209_210214068](https://user-images.githubusercontent.com/54862231/70554236-c41d3600-1b4a-11ea-9658-919d03557603.jpg)
+
+![IMG_20191209_210124387](https://user-images.githubusercontent.com/54862231/70554180-abad1b80-1b4a-11ea-888f-ab77b838426f.jpg)
 
 ## 6) Power up
 
