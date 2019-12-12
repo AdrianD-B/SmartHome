@@ -1,5 +1,11 @@
 # SmartHome Captsone Project Blog
 
+## Week 11 case desgined
+The box shape is for the pcb and the cylinder is for the rtd. The box has 4 holes for the power supply, st-Link, micro usb cable and a connection to the rtd. the cylinder has a extra hole for the sensor to protrude from.to lockin the case i will have a top layer to hold down the components.
+
+![image](https://user-images.githubusercontent.com/54862231/70725225-00c36b80-1cca-11ea-98b2-36f105cd49f8.png)
+
+
 ## Week 10 pcb soldered and functioning
 All works accordingly except for the buzzer which does work but is very weak sounding. Pretty sure i broke the buzzer since i did a test with same resistance and it still became lower than usual.
 
